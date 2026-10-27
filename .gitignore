@@ -1,0 +1,5 @@
+# Never commit real records: backups, exports and saved copies stay on your own devices
+*backup*.json
+*.csv
+Job_Manager_*.html
+node_modules/
